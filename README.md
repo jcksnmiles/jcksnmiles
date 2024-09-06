@@ -12,7 +12,8 @@
 
 ### Key Projects
 **1. Personal QA Learning Roadmap** (Trello)
-<br><img width="540" height="304" alt="Screenshot 2024-09-06 at 3 23 19 PM" src="https://github.com/user-attachments/assets/ade02284-48f9-45be-8e89-7666776a0113">
+
+<img width="540" height="304" alt="Screenshot 2024-09-06 at 3 23 19 PM" src="https://github.com/user-attachments/assets/ade02284-48f9-45be-8e89-7666776a0113">
 <br> Developed a <a href="https://trello.com/invite/b/6672d6f1462b1617cd5c8c79/ATTIfa5fba288bfd1cd8d640dfa7ef7d3b3bC2D2910D/qa-testing-course" target="_blank">structured learning roadmap</a> for QA fundamentals, testing methodologies, and tools, completed within 5 weeks.
 
 ### 🔗 Let's Connect
