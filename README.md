@@ -11,7 +11,8 @@ I transitioned from videography and ESL teaching to software testing, driven by 
 <br>![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
 ### 🌱 I’m currently learning... 
-
+- Actively engaged in continuous learning through online courses, QA communities, and industry research.
+- 
 
 ### 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jcksnmiles)
