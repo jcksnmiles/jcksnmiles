@@ -5,7 +5,7 @@
 <br>I’ve explored diverse careers, from videography to ESL teaching, and now I'm **diving into Quality Assurance**, driven by my **curiosity** and **love for spotting errors**.
 
 🧪 **Why QA?**
-<br>I love QA because it allows me to ensure software meets high standards by **catching typos, logical mistakes, and areas for enhancement.** The role lets me **think outside the box**, finding unique ways to test and **improve software**. I also value how **QA aligns with my strengths**: seeing things from the end-user's perspective, staying **detail-oriented**, and **communicating clearly.**
+<br>I love QA because it allows me to ensure software meets high standards by **catching typos, logical mistakes,** and **areas for enhancement.** The role lets me **think outside the box**, finding unique ways to test and **improve software**. I also value how **QA aligns with my strengths**: seeing things from the end-user's perspective, staying **detail-oriented**, and **communicating clearly.**
 
 🔧 **Skills & Tools**
 <br>I've trained in tools like **SQL, Chrome DevTools, Jira, Confluence, Postman**, and basics of **HTML, CSS,** and **JavaScript**. I'm eager to contribute to a QA team with my **commitment to quality**.
